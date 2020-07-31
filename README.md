@@ -1,7 +1,7 @@
 <img align="center" alt="Profile" width="707px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Emon-ProCoder7/master/Emon_procoder7_profile.png">
 
 
-## I'm a Bioinformatician, Developer and Machine Learning Enthusiast!
+## I'm a Bioinformatician, Developer and Deep Learning Enthusiast!
 - 🔭 I’m currently working on NGS Analytics!
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate with other content creators
