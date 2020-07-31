@@ -1,4 +1,4 @@
-### Hi there, This is Md. Tabassum Hossain Emon 👋
+### ![Hi there, This is Md. Tabassum Hossain Emon 👋](profile.png)
 
 ## I'm a Bioinformatician, Developer and Machine Learning Enthusiast!
 - 🔭 I’m currently working on NGS Analytics!
