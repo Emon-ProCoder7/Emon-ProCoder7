@@ -2,10 +2,10 @@
 
 
 ## I'm a Bioinformatician, Developer and Deep Learning Enthusiast!
-- 🔭 I’m currently working on NGS Analytics!
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Developing firm understanding in Data Science.
+-  I’m currently working on NGS Analytics!
+-  I’m currently learning Data Science 
+-  I’m looking to collaborate with other content creators
+-  2020 Goals: Developing firm understanding in Data Science.
 - ⚡ Fun fact: I love to sing and play with data.
 
 <a href="https://github.com/Emon-ProCoder7">
