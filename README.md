@@ -18,7 +18,6 @@
 
 ---
 
-![Emon's github stats](https://github-readme-stats.vercel.app/api?username=Emon-ProCoder7&show_icons=true&theme=radical)
 
 [twitter]: https://twitter.com/MdTabassumHoss1
 [youtube]: https://www.youtube.com/channel/UCbmZ7YaV1DEDiP-tx16hS0A/videos?view_as=subscriber
