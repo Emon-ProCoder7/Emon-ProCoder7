@@ -1,4 +1,4 @@
-### ![Hi there, This is Md. Tabassum Hossain Emon 👋](Emon_procoder7_profile.png)
+### ![Hi there, This is Md. Tabassum Hossain Emon 👋](Emon-ProCoder7/Emon_procoder7_profile.png)
 
 ## I'm a Bioinformatician, Developer and Machine Learning Enthusiast!
 - 🔭 I’m currently working on NGS Analytics!
