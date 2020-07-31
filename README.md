@@ -7,6 +7,15 @@
 - 🥅 2020 Goals: Developing firm understanding in Data Science.
 - ⚡ Fun fact: I love to sing and play with data.
 
+<a href="https://github.com/Emon-ProCoder7">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon-ProCoder7&show_icons=true&theme=dark&line_height=27" alt="Emon's github stats"/>
+</a>
+
+<a href="https://github.com/Emon-ProCoder7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon-ProCoder7&theme=dark&hide_langs_below=1" />
+</a>
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -14,9 +23,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
-
----
+<br/>
 
 
 [twitter]: https://twitter.com/MdTabassumHoss1
