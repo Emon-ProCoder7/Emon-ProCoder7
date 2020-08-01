@@ -3,7 +3,7 @@
 
 ## I'm a Bioinformatician, Developer and Deep Learning Enthusiast!
 -  I’m currently working on NGS Analytics!
--  I’m currently learning Data Science 
+-  I’m currently learning nitty gritty details of Data Science 
 -  I’m looking to collaborate with other content creators
 -  2020 Goals: Developing firm understanding in Data Science.
 - ⚡ Fun fact: I love to sing and give presentations.
