@@ -6,7 +6,7 @@
 -  I’m currently learning Data Science 
 -  I’m looking to collaborate with other content creators
 -  2020 Goals: Developing firm understanding in Data Science.
-- ⚡ Fun fact: I love to sing and play with data.
+- ⚡ Fun fact: I love to sing and give presentations.
 
 <a href="https://github.com/Emon-ProCoder7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon-ProCoder7&show_icons=true&theme=dark&line_height=27" alt="Emon's github stats"/>
