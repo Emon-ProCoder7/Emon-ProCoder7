@@ -1,7 +1,16 @@
 <img align="center" alt="Profile" width="707px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Emon-ProCoder7/master/Emon_procoder7_profile.png">
 
+<p align='center'> 
+ 
+ <a href="#"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg"></a>
+ 
+ <a href="#"><img src="https://badges.pufler.dev/repos/Emon-ProCoder7"></a>
+ 
+</p>
 
-## I'm a Bioinformatician, Developer and Deep Learning Enthusiast!
+
+
+## I'm a Bioinformatician, Developer and Deep Learning Enthusiast! 
 -  I’m currently working on NGS Analytics!
 -  I’m currently learning nitty gritty details of Data Science 
 -  I’m looking to collaborate with other content creators
