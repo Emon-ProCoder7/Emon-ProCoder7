@@ -5,7 +5,7 @@
 -  I’m currently working on NGS Analytics!
 -  I’m currently learning nitty gritty details of Data Science 
 -  I’m looking to collaborate with other content creators
--  2020 Goals: Developing powerfull skills over Data Science.
+-  2020 Goals: Developing powerfull expertise over Data Science.
 - ⚡ Fun fact: I love to sing and share ideas with mass audience.
 
 <a href="https://github.com/Emon-ProCoder7">
