@@ -38,13 +38,12 @@
 
 <br />
 
+*My Rpubs* 
  [<img align="center" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/Emon-ProCoder7)
 
 <br />
 
-<br />
 
-<br />
 
 <br />
 
