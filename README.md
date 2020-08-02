@@ -33,23 +33,20 @@
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=)
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Emon-ProCoder7)
 
-
+<br />
 
 
 <br />
 
-*My RPubs*
  [<img align="center" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/Emon-ProCoder7)
 
 <br />
 
 <br />
 
-
 <br />
 
 <br />
-
 
 ### Connect with me:
 
