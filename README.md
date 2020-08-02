@@ -9,7 +9,6 @@
 </p>
 
 
-
 ## I'm a Bioinformatician, Developer and Deep Learning Enthusiast! 
 -  I’m currently working on NGS Analytics!
 -  I’m currently learning nitty gritty details of Data Science 
@@ -25,7 +24,6 @@
 
 ### Languages and Tools:
 
-
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 [<img align="left" alt="R" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=rmarkdown)
 [<img align="left" alt="Bash" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=shell)
@@ -34,7 +32,6 @@
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Emon-ProCoder7)
 
 <br />
-
 
 <br />
 
