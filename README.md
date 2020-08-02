@@ -34,6 +34,20 @@
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Emon-ProCoder7)
 
 
+
+
+<br />
+
+*My RPubs*
+ [<img align="center" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/Emon-ProCoder7)
+
+<br />
+
+<br />
+
+
+<br />
+
 <br />
 
 
@@ -45,21 +59,6 @@
 [<img align="left" alt="Emon-ProCoder7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
-
-
-<br />
-
-
-<br />
-
-
-<br />
-
-*My RPubs*
- [<img align="center" alt="Emon-ProCoder7 | RPubs" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/R-project-repo-master/rpubs.PNG" />](https://rpubs.com/Emon-ProCoder7)
-
-<br />
-
 
 [twitter]: https://twitter.com/MdTabassumHoss1
 [youtube]: https://www.youtube.com/channel/UCbmZ7YaV1DEDiP-tx16hS0A/videos?view_as=subscriber
