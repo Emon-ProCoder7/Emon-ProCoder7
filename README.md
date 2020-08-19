@@ -3,14 +3,14 @@
 
 <img align="center" alt="Profile" width="707px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Emon-ProCoder7/master/Emon_procoder7_profile.png">
 
-<p align='center'> 
+
  
  
  
- [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-purple)](https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/)
-       <a href="#"><img src="https://badges.pufler.dev/repos/Emon-ProCoder7"></a>
+ <a href="https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/"><img align = "center" src="https://img.shields.io/badge/author-MdTabassumHossainEmon-purple"></a>
+       <a href="#"><img align = "center" src="https://badges.pufler.dev/repos/Emon-ProCoder7"></a>
  
-</p>
+
 
 [<img src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/python.png" align="right" height="217" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 
@@ -38,7 +38,7 @@
 [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=sql)
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=)
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Emon-ProCoder7)
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<img align="left" alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 
 <br />
 
