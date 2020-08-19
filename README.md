@@ -12,7 +12,7 @@
 </p>
 
 
-## I'm a Bioinformatician, Developer and Deep Learning Enthusiast! 
+## I'm a Bioinformatician, Developer and Deep Learning Enthusiast! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 -  I’m currently working on NGS Analytics!
 -  I’m currently learning nitty gritty details of Data Science 
 -  I’m looking to collaborate with other content creators
