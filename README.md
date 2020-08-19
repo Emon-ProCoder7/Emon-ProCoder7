@@ -15,12 +15,13 @@
 [<img src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/python.png" align="right" height="197" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 
 <h1 align = 'center'><strong>I'm a Bioinformatician, Developer and Deep Learning Enthusiast!</strong><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
--  I’m currently working on NGS Analytics!
--  I’m currently learning nitty gritty details of Data Science 
--  I’m looking to collaborate with other content creators
--  2020 Goals: Developing powerfull expertise over Data Science.
-- ⚡ Fun fact: I love to sing, design & arrange things and share ideas with mass audience!
-
+<ul>
+ <li>I’m currently working on NGS Analytics!</li>
+ <li>I’m currently learning nitty gritty details of Data Science </li>
+ <li>I’m looking to collaborate with other content creators</li>
+ <li>2020 Goals: Developing powerfull expertise over Data Science.</li>
+ <li>⚡ Fun fact: I love to sing, design & arrange things and share ideas with mass audience!</li>
+</ul>
 <a href="https://github.com/Emon-ProCoder7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon-ProCoder7&show_icons=true&theme=dark&line_height=27" alt="Emon's github stats"/>
 </a>
