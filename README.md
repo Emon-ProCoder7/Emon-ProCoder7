@@ -1,4 +1,3 @@
-[![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-purple)](https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/)
 
 
 
@@ -8,7 +7,8 @@
  
  <a href="#"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg"></a>
  
- <a href="#"><img src="https://badges.pufler.dev/repos/Emon-ProCoder7"></a>
+ [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-purple)](https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/)
+       <a href="#"><img src="https://badges.pufler.dev/repos/Emon-ProCoder7"></a>
  
 </p>
 
