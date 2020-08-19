@@ -12,7 +12,7 @@
  
 </p>
 
-[<img src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/python.png" align="right" height="197" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
+[<img src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/python.png" align="right" height="217" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 
 <h1 align = 'center'><strong>I'm a Bioinformatician, Developer & <br>Deep Learning Enthusiast!</strong><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <ul>
