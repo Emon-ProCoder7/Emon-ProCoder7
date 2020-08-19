@@ -14,7 +14,7 @@
 
 [<img src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/python.png" align="right" height="197" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 
-## I'm a Bioinformatician, Developer and Deep Learning Enthusiast![<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">](https://github.com/Emon-ProCoder7)
+## I'm a Bioinformatician, Developer and Deep Learning Enthusiast!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 -  I’m currently working on NGS Analytics!
 -  I’m currently learning nitty gritty details of Data Science 
 -  I’m looking to collaborate with other content creators
