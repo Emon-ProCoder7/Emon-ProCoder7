@@ -1,6 +1,7 @@
 [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-purple)](https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/)
 
 
+
 <img align="center" alt="Profile" width="707px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Emon-ProCoder7/master/Emon_procoder7_profile.png">
 
 <p align='center'> 
@@ -11,8 +12,9 @@
  
 </p>
 
+[<img src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/python.png" align="right" height="197" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 
-## I'm a Bioinformatician, Developer and Deep Learning Enthusiast! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## I'm a Bioinformatician, Developer and Deep Learning Enthusiast!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 -  I’m currently working on NGS Analytics!
 -  I’m currently learning nitty gritty details of Data Science 
 -  I’m looking to collaborate with other content creators
@@ -22,6 +24,7 @@
 <a href="https://github.com/Emon-ProCoder7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon-ProCoder7&show_icons=true&theme=dark&line_height=27" alt="Emon's github stats"/>
 </a>
+
 
 <br />
 
