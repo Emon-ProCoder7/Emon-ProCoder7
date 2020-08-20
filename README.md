@@ -4,12 +4,7 @@
 <img align="center" alt="Profile" width="707px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Emon-ProCoder7/master/Emon_procoder7_profile.png">
 
 
- 
- 
- 
 <pre>                       <a href="https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/"><img align = "center" src="https://img.shields.io/badge/author-MdTabassumHossainEmon-teal"></a> <a href="#"><img align = "center" src="https://badges.pufler.dev/repos/Emon-ProCoder7"></a></pre>
- 
-
 
 [<img src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/python.png" align="right" height="217" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 
