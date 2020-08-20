@@ -7,7 +7,7 @@
  
  
  
- <a href="https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/"><img align = "center" src="https://img.shields.io/badge/author-MdTabassumHossainEmon-purple"></a>
+ <a href="https://www.linkedin.com/in/md-tabassum-hossain-emon-ag007/"><img align = "center" src="https://img.shields.io/badge/author-MdTabassumHossainEmon-teal"></a>
        <a href="#"><img align = "center" src="https://badges.pufler.dev/repos/Emon-ProCoder7"></a>
  
 
