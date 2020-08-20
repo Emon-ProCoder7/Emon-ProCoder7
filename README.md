@@ -11,6 +11,7 @@
 <h1 align = 'center';"><strong>I'm a Bioinformatician, Developer &<br>Deep Learning Enthusiast!</strong> <img src="https://raw.githubusercontent.com/Emon-ProCoder7/Emon-ProCoder7/master/wave.gif" width="30px"></h1>
 <ul>
  <li>I’m currently working on NGS Analytics!</li>
+ <li>I write clean Code</li>
  <li>I’m currently learning nitty gritty details of Data Science </li>
  <li>I’m looking to collaborate with other content creators</li>
  <li>2020 Goals: Developing powerfull expertise over Data Science.</li>
