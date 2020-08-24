@@ -17,10 +17,12 @@
  <li>2020 Goals: Developing powerfull expertise over Data Science.</li>
  <li>⚡ Fun fact: I love to sing, design & arrange things and share ideas with mass audience!</li>
 </ul>
+
 <a href="https://github.com/Emon-ProCoder7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon-ProCoder7&show_icons=true&theme=dark&line_height=27" alt="Emon's github stats"/>
+</a> <a href="https://github.com/Emon-ProCoder7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon-ProCoder7&theme=dark&layout=compact&show_icons=true" />
 </a>
-
 
 <br />
 
