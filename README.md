@@ -38,7 +38,7 @@
 [<img align="left" alt="Scikit-learn" width="57px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/Scikit.png" />](https://emon-procoder7.github.io/Machine-Learning-Projects/)
 [<img align="left" alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>](https://github.com/Emon-ProCoder7/flask_framework)
 [<img align="left" alt="SQLAlchemy" width="77px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/sql.png"/>](https://github.com/Emon-ProCoder7/flask_framework)
-<img align="left" alt="Shiny" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/shiny.png" />
+[<img align="left" alt="Shiny" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/shiny.png" />](https://github.com/Emon-ProCoder7/shiny)
 
 <br />
 
