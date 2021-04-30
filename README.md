@@ -37,7 +37,7 @@
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Emon-ProCoder7)
 [<img align="left" alt="Scikit-learn" width="57px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/Scikit.png" />](https://emon-procoder7.github.io/Machine-Learning-Projects/)
 [<img align="left" alt="Flask" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/flask_framework)
-[<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-plus.jpg"/>](https://github.com/Emon-ProCoder7/flask_framework)
+[<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-plus.png"/>](https://github.com/Emon-ProCoder7/flask_framework)
 [<img align="left" alt="Shiny" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/shiny.png" />](https://github.com/Emon-ProCoder7/My-Shiny)
 
 <br />
