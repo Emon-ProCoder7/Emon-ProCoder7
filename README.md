@@ -14,7 +14,7 @@
  <li>I write clean Code</li>
  <li>I’m currently learning nitty gritty details of Data Science </li>
  <li>I’m looking to collaborate with other content creators</li>
- <li>2020 Goals: Developing powerfull grasp over Data Science.</li>
+ <li>2021 Goals: Applying Scaleble Technologies to Develop Efficient Deep Learning Solutions.</li>
  <li>⚡ Fun fact: I love to sing, design & arrange things and share ideas with mass audience!</li>
 </ul>
 
