@@ -21,11 +21,12 @@
 <a href="https://github.com/Emon-ProCoder7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emon-ProCoder7&show_icons=true&theme=dark&line_height=27" alt="Emon's github stats"/>
 </a> <a href="https://github.com/Emon-ProCoder7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon-ProCoder7&theme=dark&layout=compact&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon-ProCoder7&theme=dark&layout=compact&show_icons=true&langs_count=12 />
 </a>
 </a> <a href="https://github.com/Emon-ProCoder7">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emon-ProCoder7&theme=blue-green" />
 </a>
+
 
 <br />
 
