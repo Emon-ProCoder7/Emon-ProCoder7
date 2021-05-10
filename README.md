@@ -67,11 +67,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Emon-ProCoder7 | YouTube" width="110px" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img align="left" alt="Emon-ProCoder7 | YouTube" width="102px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Emon-ProCoder7 | LinkedIn" width="110px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Emon-ProCoder7 | Website" width="27px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/Earth.gif" />](https://md-tabassum-hossain-emon.netlify.app/)
-[<img align="left" alt="Emon-ProCoder7 | Instagram" width="110px" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-[<img align="left" alt="Emon-ProCoder7 | Twitter" width="110px" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Emon-ProCoder7 | Instagram" width="112px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Emon-ProCoder7 | Twitter" width="96px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 <br />
 
