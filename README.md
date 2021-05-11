@@ -41,6 +41,7 @@
 ### Languages and Tools:
 
 [<img alt="Android" width="120px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />](https://github.com/Emon-ProCoder7)
+
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 [<img align="left" alt="R" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=rmarkdown)
 [<img title="linux" alt="linux" width="32px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=shell)
@@ -52,6 +53,7 @@
 [<img align="left" alt="c-sharp" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-sharp.png"/>](https://github.com/Emon-ProCoder7/flask_framework)
 [<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/c-plus.png"/>](https://github.com/Emon-ProCoder7/Cpp)
 [<img align="left" alt="Shiny" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/r-projects/master/shiny.png" />](https://github.com/Emon-ProCoder7/My-Shiny)
+[<img align="left" alt="Postgresql" width="75px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/postgre.png" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=jupyter+notebook)
 
 <br />
 
